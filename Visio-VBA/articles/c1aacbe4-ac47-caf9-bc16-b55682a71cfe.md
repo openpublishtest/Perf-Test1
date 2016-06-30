@@ -1,0 +1,17 @@
+
+# ToolbarItem.BuiltIn Property (Visio)
+
+Determines whether an object is a default Microsoft Visio user interface object or a custom object. Read-only.
+
+
+## Syntax
+
+ _expression_ . **BuiltIn**
+
+ _expression_ A variable that represents a **ToolbarItem** object.
+
+
+### Return Value
+
+Boolean
+
