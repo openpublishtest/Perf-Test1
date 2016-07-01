@@ -4,7 +4,7 @@
   "docsets_to_publish": [
     {
       "docset_name": "Access-VBA1",
-      "build_source_folder": "Access-VBA1",
+      "build_source_folder": "Access-VBA",
       "build_output_subfolder": "Access-VBA",
       "locale": "en-us",
       "version": 0,
@@ -17,7 +17,7 @@
       "build_entry_point": "op"
     },
     {
-      "docset_name": "Excel-VBA",
+      "docset_name": "Excel-VBA1",
       "build_source_folder": "Excel-VBA",
       "build_output_subfolder": "Excel-VBA",
       "locale": "en-us",
@@ -31,7 +31,7 @@
       "build_entry_point": "op"
     },
     {
-      "docset_name": "Language-Reference-VBA",
+      "docset_name": "Language-Reference-VBA1",
       "build_source_folder": "Language-Reference-VBA",
       "build_output_subfolder": "Language-Reference-VBA",
       "locale": "en-us",
@@ -45,7 +45,7 @@
       "build_entry_point": "op"
     },
     {
-      "docset_name": "Library-Reference-VBA",
+      "docset_name": "Library-Reference-VBA1",
       "build_source_folder": "Library-Reference-VBA",
       "build_output_subfolder": "Library-Reference-VBA",
       "locale": "en-us",
@@ -59,7 +59,7 @@
       "build_entry_point": "op"
     },
     {
-      "docset_name": "Office-Mac-VBA",
+      "docset_name": "Office-Mac-VBA1",
       "build_source_folder": "Office-Mac-VBA",
       "build_output_subfolder": "Office-Mac-VBA",
       "locale": "en-us",
@@ -73,7 +73,7 @@
       "build_entry_point": "op"
     },
     {
-      "docset_name": "Outlook-VBA",
+      "docset_name": "Outlook-VBA1",
       "build_source_folder": "Outlook-VBA",
       "build_output_subfolder": "Outlook-VBA",
       "locale": "en-us",
@@ -87,7 +87,7 @@
       "build_entry_point": "op"
     },
     {
-      "docset_name": "PowerPoint-VBA",
+      "docset_name": "PowerPoint-VBA1",
       "build_source_folder": "PowerPoint-VBA",
       "build_output_subfolder": "PowerPoint-VBA",
       "locale": "en-us",
@@ -101,7 +101,7 @@
       "build_entry_point": "op"
     },
     {
-      "docset_name": "Project-VBA",
+      "docset_name": "Project-VBA1",
       "build_source_folder": "Project-VBA",
       "build_output_subfolder": "Project-VBA",
       "locale": "en-us",
@@ -115,7 +115,7 @@
       "build_entry_point": "op"
     },
     {
-      "docset_name": "Publisher-VBA",
+      "docset_name": "Publisher-VBA1",
       "build_source_folder": "Publisher-VBA",
       "build_output_subfolder": "Publisher-VBA",
       "locale": "en-us",
@@ -129,7 +129,7 @@
       "build_entry_point": "op"
     },
     {
-      "docset_name": "Visio-VBA",
+      "docset_name": "Visio-VBA1",
       "build_source_folder": "Visio-VBA",
       "build_output_subfolder": "Visio-VBA",
       "locale": "en-us",
@@ -143,7 +143,7 @@
       "build_entry_point": "op"
     },
     {
-      "docset_name": "Word-VBA",
+      "docset_name": "Word-VBA1",
       "build_source_folder": "Word-VBA",
       "build_output_subfolder": "Word-VBA",
       "locale": "en-us",
