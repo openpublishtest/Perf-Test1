@@ -3,8 +3,8 @@
   "need_generate_intellisense": false,
   "docsets_to_publish": [
     {
-      "docset_name": "Access-VBA",
-      "build_source_folder": "Access-VBA",
+      "docset_name": "Access-VBA1",
+      "build_source_folder": "Access-VBA1",
       "build_output_subfolder": "Access-VBA",
       "locale": "en-us",
       "version": 0,
